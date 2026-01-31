@@ -1,1 +1,1 @@
-# amagc-lab
+# amagz-lab
